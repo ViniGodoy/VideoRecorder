@@ -14,13 +14,17 @@ give the credits and mention [my paper](https://ieeexplore.ieee.org/document/698
 ## Sample images
 
 Recording interface with bone segmentation:
+
 ![Head](sample/recorder0.jpg "Interface with bones")
 
 Recoding interface - no bones detected:
+
 ![Head](sample/recorder1.jpg "Interface")
 
 Playback RGB image and depth:
+
 ![Head](sample/recorder2.jpg "Playback")
 
 Image classification interface:
+
 ![Head](sample/recorder3.jpg "Image classification")
