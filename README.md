@@ -1,6 +1,6 @@
 # Video recorder
 Records video, depth and skeleton information using Microsoft Kinect or any OpenNI compatible device. 
-Used to record this Libras Movement Database. 
+Used to record this [Libras Movement Database](https://www.dropbox.com/sh/u38ptqo6q8r6s9d/AACSutfskrYp_PL1TdgNpogVa?dl=0). 
 
 Dependencies:
 - [XNCV](https://github.com/ViniGodoy/xncv)
